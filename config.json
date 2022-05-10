@@ -1,0 +1,12 @@
+{
+    "host_server": {
+        "ip": "127.0.0.1",
+        "port": 8080
+    },
+    "broadcast_servers": [
+        {
+            "ip": "127.0.0.1",
+            "port": 8080
+        }
+    ]
+}
