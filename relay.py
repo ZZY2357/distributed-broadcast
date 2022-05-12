@@ -1,6 +1,3 @@
-# "rss": relay server socket
-# "rcs": relay client socket
-
 import socket
 from config_reader import ConfigReader
 import threading
